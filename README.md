@@ -10,7 +10,8 @@
 - 🌱 I’m currently learning **Reverse Engineering**
 <!--
 - 🤔 I’m looking for help with ...
-- 📫 How to reach me: ... -->
+-->
+- 📫 How to reach me: sw33tbit@protonmail.com 
 
 <br/>
 <br/>
