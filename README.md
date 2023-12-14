@@ -8,7 +8,7 @@
 - 🔭 I’m currently **student**
 - 👨‍💻 My website is available at **[bitr13x.github.io](https://bitr13x.github.io/)**
 - 🌱 I’m currently learning **Reverse Engineering**
-- :notebook: I'm also on medium: [@bitr13x](https://medium.com/@bitr13x)
+- 📓 I'm also on medium: [@bitr13x](https://medium.com/@bitr13x)
 <!--
 - 🤔 I’m looking for help with ...
 -->
