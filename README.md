@@ -5,10 +5,10 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently **student**
+- 🔭 I’m currently **Student**
 - 👨‍💻 My website is available at **[bitr13x.github.io](https://bitr13x.github.io/)**
 - 🌱 I’m currently learning **Reverse Engineering**
-- 📓 I'm also on medium: [@bitr13x](https://medium.com/@bitr13x)
+- 📓 Writing articles on Medium: [@bitr13x](https://medium.com/@bitr13x)
 <!--
 - 🤔 I’m looking for help with ...
 -->
